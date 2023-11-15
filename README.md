@@ -11,7 +11,7 @@
   - Pandas
   - Numpy
   - TensorFlow
-  - Scikit learn
+  - scikit-learn
   - Seaborn
   - Plotly Express
  - SQL   
