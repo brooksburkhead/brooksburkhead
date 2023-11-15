@@ -14,7 +14,9 @@
   - scikit-learn
   - Seaborn
   - Plotly Express
- - SQL   
-   
+ - SQL
+### Currently Learning
+- Git
+- Linux
   
   
