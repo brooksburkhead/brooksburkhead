@@ -11,14 +11,16 @@
   - Pandas
   - Numpy
   - TensorFlow
+  - Keras
   - scikit-learn
   - Seaborn
   - Plotly Express
  - SQL
+ - Git
 ### Currently Learning
-- Git
 - Linux
 - Docker
+- Tableau
   
   
   
