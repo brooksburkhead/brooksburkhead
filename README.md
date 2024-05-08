@@ -1,25 +1,28 @@
-# Hello! :wave:, I'm Brooks.
+<h1 align="center">Hi 👋, I'm Brooks</h1>
+<h3 align="center">Data Scientist from Albuquerque, NM</h3>
 
-### A few things about me
-- I am a Data Scientist looking for the next opportunity! 
-- I love learning about all-things machine learning.
-- I enjoy getting to use compelling visualizations and insights from ML to tell stories about Data.
-- Skilled in Data Wrangling and Cleaning, Data Analysis, Creating and training ML models, creating insightful visualizations of data.
-
-### Languages & Tools 
-- Python
-  - Pandas
-  - Numpy
-  - TensorFlow
-  - Keras
-  - scikit-learn
-  - Seaborn
-  - Plotly Express
- - SQL
- - Git
-### Currently Learning
+## 💬 Ask me about
+- All things data science (including your data challenges!)
+- Deep Learning and Machine Learning
 - Docker
-- Tableau
-  
-  
+- Baseball (Go O's!)
+- Coffee & Tea
+
+
+## 📅 Hobbies
+- Curling 🥌
+- Browsing random wiki pages to satisfy my curiosity
+- Travelling
+- PC building
+- Gardening
+
+## 📚 Learning
+- Cloud Architecture 
+- Geospatial Analytics
+
+## My favorite xkcd comic
+![My favorite xkcd comic](https://imgs.xkcd.com/comics/machine_learning.png)
+
+From: https://xkcd.com/1838
+
   
