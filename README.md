@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brooks</h1>
+<h1 align="center">Hi👋, I'm Brooks</h1>
 <h3 align="center">Data Scientist from Albuquerque, NM</h3>
 
 ## 💬 Ask me about
