@@ -1,4 +1,4 @@
-<img align="left" src="greater-roadrunner-featured.png">
+<img align="right" src="greater-roadrunner-featured.png">
 
 ### Hello!
 
