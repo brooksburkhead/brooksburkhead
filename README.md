@@ -1,4 +1,4 @@
-<img align="left" src="https://www.theanimalfacts.com/wp-content/uploads/2020/06/greater-roadrunner-featured.png">
+<img align="left" src="greater-roadrunner-featured.png">
 
 ### Hello!
 
