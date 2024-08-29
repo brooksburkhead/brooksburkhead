@@ -1,6 +1,6 @@
 <img align="right" src="greater-roadrunner-featured.png">
 
-### Hello!
+### Hey!👋
 
 Hello!
 I'm **Brooks**, an insatiably curious data enthusiast with a strong passion for all things data. I love building ETL pipelines, supporting ML, engineering, and analytics teams, and making data accessible.
@@ -14,3 +14,4 @@ Here is a list of my **personal projects**:
 #### Tech Stack:
 
 Python / Pandas / NumPy / scikit-learn / PyTorch / SQL / Databricks / Snowflake / dbt / AWS / GCP / Linux / git / github   
+
