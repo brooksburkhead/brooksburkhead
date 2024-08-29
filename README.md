@@ -11,3 +11,6 @@ Here is a list of my **personal projects**:
 | ---------------------| ---------------------|
 | • [CRM Data Loader]() - An automated pipeline which loads customer and sales data from a data warehouse to a CRM application  | • [New Mexico Bird Migration](https://github.com/brooksburkhead/Bird-Migration-Analysis) - Modelling and predicting New Mexico migratory bird pattern changes using a Polynomial Regression model <br>• [Wikipedia NLP]() - Uses Natural Language Processing and Wikipedia's API to find the 10 most similar people to a any person found in Wikipedia <br>• [Spotify Song Popularity]() - Built a Random Forest Model to predict the popularity of a song on Spotify before it releases. 
 
+#### Tech Stack:
+
+Python / Pandas / NumPy / scikit-learn / PyTorch / SQL / Databricks / Snowflake / dbt / AWS / GCP / Linux / git / github   
